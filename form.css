@@ -1,0 +1,76 @@
+* {
+	box-sizing: border-box;
+
+}
+
+body {
+	margin: 0px;
+}
+
+.siteTitle, .getStarted, .siteName {
+	display: inline-block;
+	color: #699eee;
+}
+
+nav {
+	position: relative;
+	margin-top: 0px
+	height: 50px;
+	background-color: #572e97;
+}
+
+.getStarted {
+	position: absolute;
+	right: 2px;
+	top: 30px;
+	margin: 10px;
+}
+
+.siteTitle {
+	margin: 0 15px;
+}
+
+nav a {
+	margin-left: 15px;
+	color: white;
+}
+
+h1 {
+	text-align: center;
+}
+
+.head_title {
+	background-color: grey;
+	padding: 15px;
+}
+
+.title {
+	text-align: center;
+	margin: 15px;
+	padding: 15px;
+}
+
+.submitButton  {
+	text-align: center;
+	margin-bottom: 5px
+}
+.btn {
+	text-align: center;
+	width: 40%;
+	background-color: : grey;
+}
+
+.footer {
+	background-color: #572e97;
+	text-align: center;
+	margin: 0px ;
+}
+
+.footer-text  {
+	margin: 0px;
+	font-size: medium;
+	font-weight: 10px;
+	padding: 10px;
+	color: #699eee;
+}
+
